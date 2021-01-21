@@ -1,0 +1,4 @@
+mtcnn
+opencv-python
+tensorflow>=1.15,<2.0
+keras==2.3.1
